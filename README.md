@@ -37,10 +37,10 @@ Please ensure your contributions adhere to the project's coding standards and in
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-Dataset Source ( https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset )
-Scikit-learn Documentation
-NumPy Documentation
-Matplotlib Documentation
+- Dataset Source ( https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset )
+- Scikit-learn Documentation
+- NumPy Documentation
+- Matplotlib Documentation
 
 ## Contact
 For any inquiries or suggestions, please feel free to contact mailto:Abduluthman278@gmail.com.
